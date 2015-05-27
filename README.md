@@ -82,17 +82,6 @@ This repository contains resources and activities associated with the JavaScript
 * [`var`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/var)
 * [`this`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/this)
 
-## Async
-
-**Learning more**
-
-* [Concurrency model and event loop](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/EventLoop)
-* [How JavaScript timers work](http://ejohn.org/blog/how-javascript-timers-work/)
-* [JavaScript timers](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Timers)
-* [`setTimeout`](https://developer.mozilla.org/en-US/docs/Web/API/Window.setTimeout)
-* [`setInterval`](https://developer.mozilla.org/en-US/docs/Web/API/Window.setInterval)
-* [ES6 `Promise`](http://www.html5rocks.com/en/tutorials/es6/promises/)
-
 ## Object-oriented JavaScript
 
 **Learning more**
